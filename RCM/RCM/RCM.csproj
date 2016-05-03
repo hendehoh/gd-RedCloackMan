@@ -117,6 +117,16 @@
     <None Include="RCM_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\eng\house_1%40128x512.png" />
+    <Content Include="Content\eng\house_1_0%40128x512.png" />
+    <Content Include="Content\eng\house_1_1%40128x512.png" />
+    <Content Include="Content\eng\options_focus%40256x256.png" />
+    <Content Include="Content\eng\options_pressed%40256x256.png" />
+    <Content Include="Content\eng\options_static%40256x256.png" />
+    <Content Include="Content\eng\play%40512x256.png" />
+    <Content Include="Content\eng\quit%40518x256.png" />
+    <Content Include="Content\eng\scores%40256x256.png" />
+    <Content Include="Content\eng\Резервная_копия_scores_000%40256x256.png" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -141,7 +151,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\ico\" />
-    <Folder Include="Content\eng\" />
     <Folder Include="Content\ru\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
