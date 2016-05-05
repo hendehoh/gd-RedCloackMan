@@ -11,7 +11,7 @@ namespace RCM
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
         public Texture2D optionsStatic;
-        public 
+        //public 
 
         public Game1()
         {
